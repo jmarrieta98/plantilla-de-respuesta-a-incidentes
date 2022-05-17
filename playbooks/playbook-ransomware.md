@@ -5,7 +5,7 @@
 
 Asigne pasos a individuos o equipos para que trabajen simultáneamente, cuando sea posible; este playbook no es puramente secuencial. Utilice su mejor criterio.
 
-### Investigación
+### Investigar
 
 `TODO: Ampliar los pasos de la investigación, incluyendo las preguntas y estrategias clave, para el ransomware.`
 
