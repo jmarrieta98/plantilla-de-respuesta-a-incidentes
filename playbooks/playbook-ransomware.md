@@ -113,7 +113,7 @@ Las cuarentenas (lógicas, físicas o ambas) impiden la propagación _desde_ los
 
 1. Escalar el incidente y comunicarlo a la dirección según el procedimiento.
 1. Documentar el incidente según procedimiento
-1. Comunicarse con los asesores jurídicos internos y externos según el procedimiento, insluyendo discusiones sobre el cumplimiento, la exposición al riesgo, la responsabilidad, el contacto con las fuerzas del orden, _etc._
+1. Comunicarse con los asesores jurídicos internos y externos según el procedimiento, incluyendo discusiones sobre el cumplimiento, la exposición al riesgo, la responsabilidad, el contacto con las fuerzas del orden, _etc._
 1. Comunicarse con los usuarios (internos)
     1. Comunicar las actualizaciones de la respuesta al incidente según el procedimiento
     1. Comunicar el impacto del incidente y las acciones de respuesta al incidente (_e.j._, contención: "¿Por qué está caído el archivo compartido?"), que pueda ser más intrusivo/disruptivo durante los incidentes de ransomware
@@ -139,13 +139,13 @@ Las cuarentenas (lógicas, físicas o ambas) impiden la propagación _desde_ los
 
 `TODO: Especificar las herramientas y procedimientos para cada paso, a continuación.`
 
-> **No recomendamos pagar el rescate:** no garantiza la solución del problema. Puede salir mal (_e._, los errores podrían hacer que los datos sean irrecuperables incluso con la clave).  Además, pagar demuestra que el ransomware funciona y podría aumentar los ataques contra ti o contra otros grupos.[<sup>[2, paraphrased]</sup>](#ransomware-playbook-ref-2)
+> **No recomendamos pagar el rescate:** no garantiza la solución del problema. Puede salir mal (_e.j._, los errores podrían hacer que los datos sean irrecuperables incluso con la clave).  Además, pagar demuestra que el ransomware funciona y podría aumentar los ataques contra ti o contra otros grupos.[<sup>[2, paraphrased]</sup>](#ransomware-playbook-ref-2)
 
 1. Poner en marcha un plan de continuidad de la actividad/recuperación de desastres: _e.j._, considerar la migración a ubicaciones operativas alternativas, sitios de conmutación por error, sistemas de respaldo.
 1. Recuperar los datos de las copias de seguridad ya limpias en sistemas ya limpios, parcheados y monitorizados (post-erradicación), de acuerdo con nuestra [estrategia de copias de seguridad bien-testeadas](#TODO-link-to-actual-resource).
     * Comprobar las copias de seguridad en busca de indicadores de compromiso
     * Considerar la recuperación parcial y las pruebas de integridad de las copias de seguridad
-1. ¡Encuentre y pruebe desencriptadores conocidos para la(s) variante(s) descubierta(s) utilizando recursos como el proyecto No More Ransom! Project's [página de Herramientas de Desencriptación](https://www.nomoreransom.org/en/decryption-tools.html).
+1. ¡Encuentre y pruebe desencriptadores conocidos para la(s) variante(s) descubierta(s) utilizando recursos como el proyecto ¡No More Ransom! [página de Herramientas de Desencriptación](https://www.nomoreransom.org/en/decryption-tools.html).
 1. Considerar el pago del rescate por los activos/datos críticos irrecuperables, de acuerdo con la política `TODO: Ampliar y socializar esta matriz de decisión`
     * Considerar las ramificaciones con las partes interesadas apropiadas
     * Comprender las implicaciones financieras y el presupuesto
@@ -201,7 +201,7 @@ Las cuarentenas (lógicas, físicas o ambas) impiden la propagación _desde_ los
 #### Información adicional
 
 1. <a name="ransomware-playbook-ref-1"></a>["Identificación de Ransomware para el analista Juicioso"](https://www.gdatasoftware.com/blog/2019/06/31666-ransomware-identification-for-the-judicious-analyst), Hahn (12 Jun 2019)
-1. <a name="ransomware-playbook-ref-2"></a>[No More Ransom!](https://www.nomoreransom.org) Proyecto, incluyendo su [Crypto Sheriff](https://www.nomoreransom.org/crypto-sheriff.php?lang=en) servicio y su [Q&A](https://www.nomoreransom.org/en/ransomware-qa.html)
-1. <a name="ransomware-playbook-ref-3"></a>[ID Ransomware](https://id-ransomware.malwarehunterteam.com/) servicio
+1. <a name="ransomware-playbook-ref-2"></a>Incluyendo su Proyecto [No More Ransom!](https://www.nomoreransom.org) su servicio [Crypto Sheriff](https://www.nomoreransom.org/crypto-sheriff.php?lang=en) y su [Q&A](https://www.nomoreransom.org/en/ransomware-qa.html)
+1. <a name="ransomware-playbook-ref-3"></a>Servicio [ID Ransomware](https://id-ransomware.malwarehunterteam.com/)
 1. <a name="ransomware-playbook-ref-4"></a>[MITRE ATT&CK Matrix](https://attack.mitre.org), incluyendo [Accesos Iniciales](https://attack.mitre.org/tactics/TA0001/) y tácticas de [Impacto](https://attack.mitre.org/tactics/TA0040/)
 
