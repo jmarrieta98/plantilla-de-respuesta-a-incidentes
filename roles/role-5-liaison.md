@@ -10,10 +10,10 @@ Los enlaces interactuan con otros equipos o partes interesadas fuera del equipo 
 
 ### Deberes
 
-#### Enlace con el exterior o con el cliente
+#### Enlace o Cliente Externo
 
 1. Subir cualquier mensaje de cara al público con respecto al incidente (Twitter, etc).
-1. Notificar al IC (Intelligence Customer) de cualquier cliente o cobertura de los medios de comunicación que informen de los efectos del incidente.
+1. Notificar al IC (Incident Commander) de cualquier cliente o cobertura de los medios de comunicación que informen de los efectos del incidente.
 1. Proporcionar a los clientes el mensaje externo de la autopsia una vez que se haya completado.
 1. Contactar o interactuar con las partes interesadas externas, como proveedores, socios, fuerzas de seguridad, _etc._
 1. **No** sentirse responsable de la creación de cada mensaje: trabajar con el Incident Commander y otras partes interesadas.
@@ -37,18 +37,18 @@ Los enlaces interactuan con otros equipos o partes interesadas fuera del equipo 
 
 #### Enlace interno
 
-1. Página PYMES u otro personal de guardia según las instrucciones del Incident Commander.
+1. Página SME's u otro personal de guardia según las instrucciones del Incident Commander.
 1. Notificar o movilizar a otros equipos de la organización (por ejemplo, Finanzas, Legal, Marketing), según las instrucciones del Incident Commander.
-1. Seguir y anticiparse a las PYMES en la convocatoria.
+1. Seguir y anticiparse a los SME's en la convocatoria.
 1. Interactuar con las partes interesadas y proporcionar actualizaciones de estado cuando sea necesario.
 1. Interactuar con las partes interesadas internas para responder a sus preguntas, para mantener la llamada principal libre de distracciones.
 1. Proporcionar actualizaciones periódicas de la situación al equipo ejecutivo, ofreciendo un resumen ejecutivo de la situación actual.
 
 ### Formación
 
-Leer y comprender el plan de respuesta a incidentes, incluyendo los roles y las guías.
+Leer y comprender el plan de respuesta a incidentes, incluyendo los roles y los playbooks.
 
-#### Prerequisitos
+#### Prerrequisitos
 
 * Excelentes **habilidades de comunicación** verbal y escrita.
 * _OPCIONAL:_ Formación en atención al cliente.

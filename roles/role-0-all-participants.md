@@ -7,12 +7,12 @@ Todos los participantes en la respuesta a un incidente tienen la responsabilidad
 
 ### Deberes
 
-#### Exhibir la etiqueta de la llamada
+#### Exhibir la Etiqueta de la llamada
 
 * Participar tanto en la llamada como en el chat.
 * Mantenga el ruido de fondo al mínimo.
 * Mantenga el micrófono silenciado hasta que tenga algo que decir.
-* Identifíquese cuando entre en la llamada; diga su nombre y su función (por ejemplo, "Soy el SME del equipo x").
+* Identifíquese cuando entre en la llamada; diga su nombre y su función (_e.j._, "Soy el SME del equipo x").
 * Habla con claridad.
 * Sea directo y objetivo.
 * Mantenga las conversaciones/debates breves y al grano.
@@ -21,9 +21,9 @@ Todos los participantes en la respuesta a un incidente tienen la responsabilidad
 * Si te unes a un solo canal (llamada o chat), no participes activamente, ya que provoca una comunicación inconexa.
 * **Utilice una terminología clara y evite acrónimos o abreviaturas. La claridad y la precisión son más importantes que la brevedad.**
 
-##### Referencia: Procedimiento común de voz
+##### Referencia: Procedimiento Común de Voz
 
-El [procedimiento de voz] estándar de la radio (https://en.wikipedia.org/wiki/Voice_procedure#Words_in_voice_procedure) **no es obligatorio**, sin embargo, es posible que escuche ciertos términos (o que tenga que utilizarlos usted mismo). Las frases comunes incluyen:
+El [procedimiento de voz](https://en.wikipedia.org/wiki/Voice_procedure#Words_in_voice_procedure) estándar de la radio  **no es obligatorio**, sin embargo, es posible que escuche ciertos términos (o que tenga que utilizarlos usted mismo). Las frases comunes incluyen:
 
 * **Ack/Rog:** "He recibido y entendido"
 * **Say Again:** "Repita su último mensaje"
@@ -45,4 +45,5 @@ El Incident Commander (IC) es el líder del proceso de respuesta al incidente.
 
 ### Capacitación
 
-Lee y entiende el plan de respuesta a incidentes, incluyendo los roles y los libros de jugadas.
+Lee y entiende el plan de respuesta a incidentes, incluyendo los roles y los playbooks.
+
