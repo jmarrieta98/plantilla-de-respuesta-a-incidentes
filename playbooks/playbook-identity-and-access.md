@@ -62,4 +62,4 @@ Además de los pasos y orientaciones generales del plan de respuesta a incidente
 
 #### Información adicional
 
-1. <a name="identity-and-access-playbook-ref-1"></a>["Título"](#TODO-url), Author Last Name (Date)
+1. <a name="identity-and-access-playbook-ref-1"></a>["Título"](#TODO-url), Autos Apellidos (Fecha)
