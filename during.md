@@ -175,7 +175,7 @@ Si un incidente resulta ser dos o más incidentes distintos:
 
 # Investigar
 
-**[Investigar](#investigar), [Remediar](#remediar) y [comunicar](#comunicar) en paralelo, utilizando equipos separados, si es posible.** El Incident Commander coordinará estas actividades.  Notifique al Incident Commander si hay pasos que el equipo debe considerar.
+**[Investigar](#investigar), [Remediar](#remediar) y [Comunicar](#comunicar) en paralelo, utilizando equipos separados, si es posible.** El Incident Commander coordinará estas actividades.  Notifique al Incident Commander si hay pasos que el equipo debe considerar.
 
 ## Crear el archivo del incidente
 
