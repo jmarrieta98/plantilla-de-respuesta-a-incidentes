@@ -3,7 +3,7 @@
 
 **Investigar, remediar (contener, erradicar), y comunicar en paralelo!**
 
-Asigna pasos a individuos o equipos para que trabajen simultáneamente, cuando sea posible; este playbook no es meramente secuencial. Utilice su mejor criterio.
+Asigne pasos a individuos o equipos para que trabajen simultáneamente, cuando sea posible; este playbook no es puramente secuencial. Utilice su mejor criterio.
 
 ### Investigar
 
@@ -13,40 +13,37 @@ Asigna pasos a individuos o equipos para que trabajen simultáneamente, cuando s
     * Determinar el **número total de usuarios afectados**.
     * Comprender **las acciones de los usuarios** en la respuesta al phishing de un correo electrónico (_e.j._, ¿Descargarón el archivo adjunto?, ¿Visitarón el sitio suplantado?, ¿O, dieron alguna información personal o comercial como credenciales?)
     * Encontrar la actividad potencialmente relacionada. Comprueba:
-        * Redes Sociales
-        * Cualquier correo electrónico sospechoso posible.
-        * Correos electrónicos con enlaces a URL's externas y desconocidas.
-        * Correos electrónicos de no-retorno o no-entregables.
-        * Cualquier tipo de notificación de actividad sospechosa.
-1. **Analizar el mensaje** utilizando un dispositivo seguro (es decir, **no** abrir los mensajes en un dispositivo con acceso a datos sensibles o credenciales ya que el mensaje puede contener malware), determinar:
-`TODO: Especificar las herramientas y el procedimiento`.
-    * Quién ha recibido el mensaje
-    * Quién era el objetivo del mensaje (puede ser diferente de los destinatarios a los que iba realmente dirigido el mensaje)
-    * Dirección de correo electrónico del remitente
+        * redes sociales
+        * cualquier correo electrónico sospechoso posible.
+        * correos electrónicos con enlaces a URL's externas y desconocidas.
+        * correos electrónicos de no-retorno o no-entregables.
+        * cualquier tipo de notificación de actividad sospechosa.
+1. **Analizar el mensaje** utilizando un dispositivo seguro (es decir, **no** abrir los mensajes en un dispositivo con acceso a datos sensibles o credenciales ya que el mensaje puede contener malware), determinar: `TODO: Especificar las herramientas y el procedimiento`.
+    * quién ha recibido el mensaje
+    * quién era el objetivo del mensaje (puede ser diferente de los destinatarios a los que iba realmente dirigido el mensaje)
+    * dirección de correo electrónico del remitente
     * línea de asunto
-    * Cuerpo del mensaje
-    * Adjuntos (**no abra los archivos adjuntos** salvo según los procedimientos establecidos)
-    * Enlaces, dominios, y nombres de host (**no siga los enlaces**, excepto según los procedimientos establecidos)
+    * cuerpo del mensaje
+    * adjuntos (**no abra los archivos adjuntos** salvo según los procedimientos establecidos)
+    * enlaces, dominios, y nombres de host (**no siga los enlaces**, excepto según los procedimientos establecidos)
     * Metadatos del correo electrónico inluidas las cabeceras de los mensajes (véase más adelante)
-        * Información del remitente en el campo "de" y en la cabecera del usuario autenticado-X
-        * Todas las direcciones IP del cliente y del servidor de correo
+        * información del remitente en el campo "de" y en la cabecera del usuario autenticado-X
+        * todas las direcciones IP del cliente y del servidor de correo
     * Anotar las "peculiaridades" o características sospechosas
-1. **Analizar los enlaces y los archivos adjuntos**
-`TODO: Especificar las herramientas y el procedimiento`
-    * Utilizar la recopilación pasiva como nslookup y whois para encontrar direcciones IP e información de registro
-    * Encontrar dominios relacionados utilizando OSINT (_e.j._, [reverse whois](https://www.whoxy.com/reverse-whois/)) en direcciones de correo electrónico y otros datos de registro.
-    * Enviar enlaces, archivos adjuntos y/o hashes a [VirusTotal](https://www.virustotal.com/gui/)
-    * Enviar enlaces, adjuntos y/o hashes a un sandbox de malware como [Cuckoo](https://cuckoosandbox.org/), [Hybrid Analysis](https://www.hybrid-analysis.com/), [Joe Sandbox](https://www.joesecurity.org/), o [VMray](https://www.vmray.com/).
-1. Categorice el tipo de ataque.
-`TODO: Personalizar las categorías y crear playbooks adicionales para tipos de phishing comunes o de alto impacto`
+1. **Analizar los enlaces y los archivos adjuntos** `TODO: Especificar las herramientas y el procedimiento`
+    * utilizar la recopilación pasiva como nslookup y whois para encontrar direcciones IP e información de registro
+    * encontrar dominios relacionados utilizando OSINT (_e.j._, [reverse whois](https://www.whoxy.com/reverse-whois/)) en direcciones de correo electrónico y otros datos de registro.
+    * enviar enlaces, archivos adjuntos y/o hashes a [VirusTotal](https://www.virustotal.com/gui/)
+    * enviar enlaces, adjuntos y/o hashes a un sandbox de malware como [Cuckoo](https://cuckoosandbox.org/), [Hybrid Analysis](https://www.hybrid-analysis.com/), [Joe Sandbox](https://www.joesecurity.org/), o [VMray](https://www.vmray.com/).
+1. Categorice el tipo de ataque. `TODO: Personalizar las categorías y crear playbooks adicionales para tipos de phishing comunes o de alto impacto`
 1. **Determine la gravedad.** Considerar:
-    * Si la seguridad pública o personal está en riesgo
-    * Si los datos personales (u otros datos sensibles) están en riesgo
-    * Si hay pruebas de quién está detrás del ataque
-    * Número de activos afectados
-    * El impacto preliminar en el negocio
-    * Si los servicios se ven afectados
-    * Si se pueden controlar/registrar los sistemas críticos
+    * si la seguridad pública o personal está en riesgo
+    * si los datos personales (u otros datos sensibles) están en riesgo
+    * si hay pruebas de quién está detrás del ataque
+    * número de activos afectados
+    * el impacto preliminar en el negocio
+    * si los servicios se ven afectados
+    * si se pueden controlar/registrar los sistemas críticos
  
 `TODO: Ampliar los pasos de la investigación, incluyendo las preguntas y estrategias clave, para el phishing.`
 
@@ -55,30 +52,30 @@ Asigna pasos a individuos o equipos para que trabajen simultáneamente, cuando s
 * **Planificar eventos de remediación** en los que estos pasos se pongan en marcha juntos (o de forma coordinada), con los equipos adecuados listos para responder a cualquier interrupción.
 * **Considere el momento y las compensaciones** de las acciones de remediación: su respuesta tiene consecuencias.
 
-#### Contener
+#### Contención
 
 `TODO: Personalizar los pasos de contención, tácticos y estrátegicos, para el phishing.`
 
 `TODO: Especifique las herramientas y los procedimientos para cada paso, a continuación.`
 
 * Contener las cuentas afectadas
-    * Cambiar las credenciales de acceso
-    * Reducir el acceso a los servicios, sistemas o datos críticos hasta que se complete la investigación
-    * Reforzar la autenticación multifactor (MFA)
+    * cambiar las credenciales de acceso
+    * reducir el acceso a los servicios, sistemas o datos críticos hasta que se complete la investigación
+    * reforzar la autenticación multifactor (MFA)
 * Bloquear la actividad en función de los indicadores de compromiso descubiertos, _e.j._:
-    * Bloquear dominios maliciosos mediante DNS, cortafuegos o proxies
-    * Bloquear los mensajes con remitentes, cuerpos de mensajes, asuntos, enlaces, archivos adjuntos similares, etc., utilizando la puerta de enlace predeterminada o el servicio de correo electrónico.
+    * bloquear dominios maliciosos mediante DNS, cortafuegos o proxies
+    * bloquear los mensajes con remitentes, cuerpos de mensajes, asuntos, enlaces, archivos adjuntos similares, etc., utilizando la puerta de enlace predeterminada o el servicio de correo electrónico.
 * Implementar la retención forense o conservar copias forenses de los mensajes
 * Purgar los mensajes relacionados de las bandejas de entrada de otros usuarios, o hacerlos inaccesibles de otro modo.
 * Contener el compromiso más amplio de acuerdo con el plan general de IR
 * Considerar medidas de contención de los dispositivos móviles, como el borrado a través de la gestión de dispositivos móviles (MDM). Equilibrio con el impacto de la investigación/forense.
 * Aumentar el "nivel de alerta" de la detección, con una mayor supervisión, en particular de las cuentas, dominios o direcciones IP relacionadas.
 * Considerar la posibilidad de contar con asistencia externa en materia de seguridad para apoyar la investigación y la correción.
-* Confirmar las actualizaciones de software y antimalware pertinenestes en los activos.
+* Confirmar las actualizaciones de software y antimalware pertinentes en los activos.
 
-#### Referencia: Recursos de Reparación
+#### Referencia: Recursos de Remediación
 
-`TODO: Especifique los recursos financieros, de personal y logísticos para llevar a cabo la reparación.`
+`TODO: Especifique los recursos financieros, de personal y logísticos para llevar a cabo la remediación.`
 
 ### Comunicar
 
@@ -95,18 +92,15 @@ Asigna pasos a individuos o equipos para que trabajen simultáneamente, cuando s
     1. Comunicar los requisitos: "¿Qué deben hacer y no hacer los usuarios?"
 1. Comunicar a los clientes
     1. Centrarse especialmente en aquellos cuyos datos se vieron afectados
-    1. Genere las notificaciones requeridas en base a las regulaciones aplicables (particularmente aquellas que puedan considerar el phishing como una violación de datos o que requieren notificaciones de otro tipo)
-   `TODO: Ampliar los requisitos y procedimientos de notificación para las regulaciones aplicables`
+    1. Genere las notificaciones requeridas en base a las regulaciones aplicables (particularmente aquellas que puedan considerar el phishing como una violación de datos o que requieren notificaciones de otro tipo) `TODO: Ampliar los requisitos y procedimientos de notificación para las regulaciones aplicables`
 1. Contactar con el/los proveedor/es de seguros
     1. Discutir qué recursos pueden poner a disposición, qué herramientas y proveedores apoyan y pagarán, _etc._
     1. Cumplir con los requisitos de presentación de informes y reclamaciones para proteger la elegibilidad.
-1. Considere la posibilidad de notificar e implicar a [las fuerzas del orden](https://www.policia.es/_es/tupolicia_conocenos_estructura_dao_cgpoliciajudicial_bcit.php)
-   `TODO: Vincule los siguiente puntos con los recursos reales de su organización`
+1. Considere la posibilidad de notificar e implicar a [las fuerzas del orden](https://www.policia.es/_es/tupolicia_conocenos_estructura_dao_cgpoliciajudicial_bcit.php) `TODO: Vincule los siguiente puntos con los recursos reales de su organización`
     1. [Aplicación de la ley local](#TODO-enlace-a-actual-recurso)
     1. [Aplicación de la ley a nivel estatal o regional](#TODO-enlace-a-actual-recurso)
-    1. [Fuerzas de seguridad nacionales o europeas](#TODO-enlace-a-actual-recurso)
-1. Comuníquese con los proveedores de seguridad y de TI
-   `TODO: Vincule las siguientes viñetas con los recursos reales de su organización`
+    1. [Fuerzas de seguridad europeas o nacionales](#TODO-enlace-a-actual-recurso)
+1. Comuníquese con los proveedores de seguridad y de TI `TODO: Vincule las siguientes viñetas con los recursos reales de su organización`
     1. Notifique y colabore con [proveedores gestionados](#TODO-enlace-a-actual-recurso) para el procedimiento
     1. Notifique y colabore con [consultores de respuesta ante incidentes](#TODO-enlace-a-actual-recurso) para el procedimiento
 
@@ -118,13 +112,13 @@ Asigna pasos a individuos o equipos para que trabajen simultáneamente, cuando s
 
 1. Poner en marcha un plan de continuidad de negocio/recuperación de desastres si el compromiso implica interrupciones de negocio: _e.j._, considerar la migración a ubicaciones operativas alternativas, clústers de conmutación por error, sistemas de copias de seguridad.
 1. Reforzar los programas de formación sobre los ataques de phishing sospechosos. Los principales indicadores de sospecha pueden ser:
-    * Errores ortográficos en el mensaje o en el asunto
-    * Nombres de remitentes que parezcan de telélefono, incluida la falta de coincidencia entre el nombre y la dirección de correo electrónico.
-    * Direcciones de correo electrónico personales para asuntos oficiales (e.j., correos electrónicos de gmail o yahoo de colegas de trabajo)
-    * Líneas de asunto marcadas con "[EXTERNO]" en correos electrónicos que parecen internos.
+    * errores ortográficos en el mensaje o en el asunto
+    * nombres de remitentes que parezcan de telélefono, incluida la falta de coincidencia entre el nombre y la dirección de correo electrónico.
+    * direcciones de correo electrónico personales para asuntos oficiales (e.j., correos electrónicos de gmail o yahoo de colegas de trabajo)
+    * líneas de asunto marcadas con "[EXTERNO]" en correos electrónicos que parecen internos.
     * [enlaces maliciosos o sospechosos](https://www.pcworld.com/article/248963/how-to-tell-if-a-link-is-safe-without-clicking-on-it.html)
-    * Recibir un correo electrónico o un archivo adjunto que no se esperaba, pero que proviene de alguien conocido (contactar con el remitente antes de abrirlo).
-    * Informar de actividades sospechosas al departamento de TI o de seguridad.
+    * recibir un correo electrónico o un archivo adjunto que no se esperaba, pero que proviene de alguien conocido (contactar con el remitente antes de abrirlo).
+    * informar de actividades sospechosas al departamento de TI o de seguridad.
 1. Asegúrate de que el personal de TI y de seguridad está al día de las técnicas de phishing más recientes.
 1. Determine si ha fallado algún control al ser victima de un ataque y rectifíquelo. He aquí una [buena fuente](https://www.proofpoint.com/us/security-awareness/post/14-things-do-after-phishing-attack) a tener en cuenta tras un ataque de phishing.
 
