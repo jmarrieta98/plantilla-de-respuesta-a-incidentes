@@ -34,7 +34,7 @@ Asigne los pasos a individuos o equipos para que trabajen simultáneamente, cuan
     * ¿Parece que el defacement es inofensivo o intencionado? ¿Podría ser el hacker un niño jugando o un grupo profesional que trabaja con un motivo?
     * ¿Parece que su organización haya sido el objetivo? ¿Quién podría querer atacar a su organización?
     * ¿Qué esperaba conseguir el hacker?
-    * Consulta [aquí](https://www.geeksforgeeks.org/types-of-hackers/) para saber más sobre los tipos de hackers que pueden haber atacado tu página web.
+    * Consulta [aquí](https://www.geeksforgeeks.org/types-of-hackers/) para saber más sobre los tipos de hackers que pueden haber atacado su página web.
 4. Recoge otra información importante de la página que ha sufrido el defacement, como por ejemplo
     * una captura de pantalla del defacement
     * el dominio y la dirección IP de la página
@@ -49,7 +49,7 @@ Asigne los pasos a individuos o equipos para que trabajen simultáneamente, cuan
 
 
 
-`TODO: Ampliar los pasos de la investigación, incluyendo las preguntas clave y las estrategias, para la desfiguración de sitios web.`
+`TODO: Ampliar los pasos de la investigación, incluyendo las preguntas clave y las estrategias, para el defacement de sitios web.`
 
 ### Remediar
 
@@ -58,7 +58,7 @@ Asigne los pasos a individuos o equipos para que trabajen simultáneamente, cuan
 
 #### Contención
 
-`TODO: Personalizar los pasos de contención, tácticos y estratégicos, para la desfiguración de sitios web.`
+`TODO: Personalizar los pasos de contención, tácticos y estratégicos, para el defacement de sitios web.`
 
 `TODO: Especificar las herramientas y los procedimientos para cada paso, a continuación.`
 
@@ -107,23 +107,23 @@ Asigne los pasos a individuos o equipos para que trabajen simultáneamente, cuan
 `TODO: Especifique las herramientas y los procedimientos (incluyendo quién debe participar) para cada paso, a continuación, o remítase al plan general`
 
 1. 1. Elevar el incidente y comunicarlo a la dirección según el procedimiento
-1. 2. Documentar el incidente según el procedimiento (e informar si procede)
-1. Comunicarse con los asesores jurídicos internos y externos según el procedimiento, incluyendo discusiones sobre el cumplimiento, la exposición al riesgo, la responsabilidad, el contacto con las fuerzas del orden, _etc._.
-1. Comunicarse con los usuarios (internos)
+2. 2. Documentar el incidente según el procedimiento (e informar si procede)
+3. Comunicarse con los asesores jurídicos internos y externos según el procedimiento, incluyendo discusiones sobre el cumplimiento, la exposición al riesgo, la responsabilidad, el contacto con las fuerzas del orden, _etc._.
+4. Comunicarse con los usuarios (internos)
     1. Comunicar las actualizaciones de la respuesta a incidentes según el procedimiento
     1. Comunicar el impacto del incidente **y** las acciones de respuesta al incidente (por ejemplo, contención: "¿por qué está caído el archivo compartido?")
     1. Comunicar los requisitos: "¿qué deben hacer y no hacer los usuarios?"  
-1. Comunicar a los clientes
+5. Comunicar a los clientes
     1. Centrarse especialmente en aquellos cuyos datos se vieron afectados
     1. Generar las notificaciones requeridas en base a las regulaciones aplicables (particularmente aquellas que puedan considerar el defacement como una violación de datos o que requieran notificaciones de otro tipo) `TODO: Ampliar los requisitos y procedimientos de notificación para las regulaciones aplicables`.
-1. Contactar con los proveedores de seguros
+6. Contactar con los proveedores de seguros
     1. Discutir qué recursos pueden poner a disposición, qué herramientas y proveedores apoyan y pagarán, _etc._.
     1. Cumplir con los requisitos de presentación de informes y reclamaciones para proteger la elegibilidad
-1. Considerar la posibilidad de notificar e implicar a las fuerzas del orden. TODO: Vincule las siguientes viñetas con los recursos reales de su organización
+7. Considerar la posibilidad de notificar e implicar a las fuerzas del orden. `TODO: Vincule las siguientes viñetas con los recursos reales de su organización`
     1. [Aplicación de la ley local](#TODO-link-to-actual-resource)
-    1. 1. [Aplicación de la ley a nivel estatal o regional](#TODO-link-to-actual-resource)
-    1. 1. [Fuerzas de seguridad europeas o nacionales](#TODO-link-to-actual-resource)
-1. Comuníquese con los proveedores de seguridad y de TI `TODO: Vincule las siguientes viñetas con los recursos reales de su organización`
+    2. 1. [Aplicación de la ley a nivel estatal o regional](#TODO-link-to-actual-resource)
+    3. 1. [Fuerzas de seguridad europeas o nacionales](#TODO-link-to-actual-resource)
+9. Comuníquese con los proveedores de seguridad y de TI `TODO: Vincule las siguientes viñetas con los recursos reales de su organización`
     1. Notifique y colabore con [proveedores gestionados](#TODO-link-to-actual-resource) según el procedimiento
     1. 2. Notificar y colaborar con [consultores de respuesta a incidentes](#TODO-link-to-actual-resource) por procedimiento
 
@@ -164,7 +164,7 @@ Asigne los pasos a individuos o equipos para que trabajen simultáneamente, cuan
 1. Póngase en contacto con el [equipo de seguridad](#TODO-link-to-actual-resource) y prepárese para participar en la respuesta según las indicaciones: investigación, remediación, comunicación y recuperación.
 
 #### Información adicional
-1. <a name="defacement-playbook-ref-1"></a>Un útil y detallado [paper](https://pdfs.semanticscholar.org/899e/2d629e06d920b9059edb21fcb52cdb33f783.pdf) sobre la detección de la desfiguraciónw
-2. <a name="defacement-playbook-ref-2"></a>10 herramientas para[better website monitoring and security](https://geekflare.com/website-defacement-monitoring/)
-3. <a name="defacement-playbook-ref-3"></a>[2019 Website Threat Research Report](https://sucuri.net/reports/2019-hacked-website-report/) con estadísticas útiles
-4. <a name="defacement-playbook-ref-4"></a>[Article](https://www.imperva.com/learn/application-security/website-defacement-attack/) incluyendo bricolaje y mejores prácticas para evitar la desfiguración de sitios web
+1. <a name="defacement-playbook-ref-1"></a>Un útil y detallado [paper](https://pdfs.semanticscholar.org/899e/2d629e06d920b9059edb21fcb52cdb33f783.pdf) sobre la detección de un defacement
+2. <a name="defacement-playbook-ref-2"></a>10 herramientas para [mejorar la monitorización y seguridad de la web](https://geekflare.com/website-defacement-monitoring/)
+3. <a name="defacement-playbook-ref-3"></a>[Informe de Investigación de Amenazas a Sitios Web 2019](https://sucuri.net/reports/2019-hacked-website-report/) con estadísticas útiles
+4. <a name="defacement-playbook-ref-4"></a>[Artículo](https://www.imperva.com/learn/application-security/website-defacement-attack/) incluyendo DIYs y mejores prácticas para evitar el defacement de sitios web
