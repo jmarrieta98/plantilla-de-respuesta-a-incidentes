@@ -143,7 +143,7 @@ Asigne pasos a individuos o equipos para que trabajen simultáneamente, cuando s
 1. Ponte en contacto con el [servicio de ayuda](#TODO-enlace-a-actual-recurso) utlizando la [línea directa de phishing](#TODO-enlace-a-actual-recurso) o la [barra de herramientas de informe de phishing](#TODO-enlace-a-actual-recurso) y sé lo más servicial posible.
 1. Ten paciencia: La respuesta puede ser perturbardora, pero estas protegiendo a tu equipo y a la organización! **Gracias.**
 
-#### Referencia: Acciones del servicio de ayuda ante un presunto ataque phishing
+#### Referencia: Acciones del Help Desk ante la Sospecha de un Ataque Phishing
 
 `TODO: Personalizar los pasos para el personal del servicio de asistencia ante una sospecha de phishing`
 
