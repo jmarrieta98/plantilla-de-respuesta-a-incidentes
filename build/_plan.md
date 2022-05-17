@@ -61,7 +61,7 @@ Cree una [frase simple de dos palabras](http://creativityforyou.com/combomaker.h
 * Equipo de Mando
   * [Incident Commander](#rol-incident-commander)
   * [Incident Commander-Adjunto](#rol-delegado-del-incident-commander-subdelegado)
-  * [Escriba](#rol-scriba)
+  * [Escriba](#rol-escriba)
 * Equipo de enlace
   * Enlace [interno](#rol-enlace)
   * Enlace externo
