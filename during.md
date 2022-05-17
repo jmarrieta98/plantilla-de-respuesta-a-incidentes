@@ -61,7 +61,7 @@ Cree una [frase simple de dos palabras](http://creativityforyou.com/combomaker.h
 * Equipo de Mando
   * [Incident Commander](#rol-incident-commander)
   * [Incident Commander-Adjunto](#rol-delegado-del-incident-commander-subdelegado)
-  * [Escriba](#rol-scriba)
+  * [Escriba](#rol-escriba)
 * Equipo de enlace
   * Enlace [interno](#rol-enlace)
   * Enlace externo
@@ -175,7 +175,7 @@ Si un incidente resulta ser dos o más incidentes distintos:
 
 # Investigar
 
-**[Investigar](#investigar), [Remediar](#remediar) y [comunicar](#communicate) en paralelo, utilizando equipos separados, si es posible.** El Incident Commander coordinará estas actividades.  Notifique al Incident Commander si hay pasos que el equipo debe considerar.
+**[Investigar](#investigar), [Remediar](#remediar) y [comunicar](#comunicar) en paralelo, utilizando equipos separados, si es posible.** El Incident Commander coordinará estas actividades.  Notifique al Incident Commander si hay pasos que el equipo debe considerar.
 
 ## Crear el archivo del incidente
 
