@@ -7,7 +7,7 @@ Asigne pasos a individuos o equipos para que trabajen simultáneamente, cuando s
 
 ### Investigar
 
-Tarea: Ampliar los pasos de la investigación, incluyendo las preguntas y estrategias clave, para el compromiso de la cadena de suministro.
+`TODO: Ampliar los pasos de la investigación, incluyendo las preguntas y estrategias claves, para el compromiso de la cadena de suministro.`
 
 1. TODO
 
@@ -18,23 +18,23 @@ Tarea: Ampliar los pasos de la investigación, incluyendo las preguntas y estrat
 
 #### Contención
 
-Tarea: Personalizar los pasos de contención, tácticos y estratégicos, para el compromiso de la cadena de suministro.
+`TODO: Personalizar los pasos de contención, tácticos y estratégicos, para el compromiso de la cadena de suministro.`
 
-TODO: Especifique las herramientas y los procedimientos para cada paso, a continuación.
+`TODO: Especifique las herramientas y los procedimientos para cada paso, a continuación.`
 
-*TODO
+* TODO
 
 `TODO: Considerar la posibilidad de automatizar las medidas de contención mediante herramientas de orquestación.`
 
 #### Erradicar
 
-TODO: Personalizar los pasos de erradicación, tácticos y estratégicos, para el compromiso de la cadena de suministro.
+`TODO: Personalizar los pasos de erradicación, tácticos y estratégicos, para el compromiso de la cadena de suministro.`
 
-TODO: Especificar las herramientas y los procedimientos para cada paso, a continuación.
+`TODO: Especificar las herramientas y los procedimientos para cada paso, a continuación.`
 
 * TODO
 
-#### Referencia: Recursos de remediación
+#### Referencia: Recursos de Remediación
 
 `TODO: Especificar los recursos financieros, de personal y logísticos para llevar a cabo la remediación.`
 
@@ -62,5 +62,5 @@ Además de los pasos y orientaciones generales del plan de respuesta a incidente
 
 #### Información adicional
 
-1. <a name="supply-chain-playbook-ref-1"></a>["Title"](#TODO-url), Author Last Name (Date)
+1. <a name="supply-chain-playbook-ref-1"></a>["Título"](#TODO-url), Autor Apellidos (Fecha)
 
