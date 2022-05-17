@@ -1,13 +1,13 @@
 
 ## Playbook: Compromiso de identidad y acceso
 
-**Investigar, remediar (contener, erradicar) y comunicar en paralelo!.**
+**Investigar, remediar (contener, erradicar) y comunicar en paralelo!**
 
-Asigne pasos a individuos o equipos para que trabajen simultáneamente, cuando sea posible; este libro de jugadas no es puramente secuencial. Utilice su mejor criterio.
+Asigne los pasos a individuos o equipos para que trabajen simultáneamente, cuando sea posible; este playbook no es puramente secuencial. Utilice su mejor criterio.
 
 ### Investigar
 
-`TODO: Ampliar los pasos de la investigación, incluyendo las preguntas y estrategias clave, para el compromiso de la identidad y el acceso.`
+`TODO: Ampliar los pasos de la investigación, incluyendo las preguntas y estrategias clave, para el compromiso de la identidad y acceso.`
 
 1. TODO
 
@@ -18,7 +18,7 @@ Asigne pasos a individuos o equipos para que trabajen simultáneamente, cuando s
 
 #### Contención
 
-`TODO: Personalizar los pasos de contención, tácticos y estratégicos, para el compromiso de la identidad y el acceso.`
+`TODO: Personalizar los pasos de contención, tácticos y estratégicos, para el compromiso de la identidad y acceso.`
 
 `TODO: Especificar las herramientas y procedimientos para cada paso, a continuación.`
 
@@ -28,13 +28,13 @@ Asigne pasos a individuos o equipos para que trabajen simultáneamente, cuando s
 
 #### Erradicar
 
-`TODO: Personalizar los pasos de erradicación, tácticos y estratégicos, para el compromiso de la identidad y el acceso.`
+`TODO: Personalizar los pasos de erradicación, tácticos y estratégicos, para el compromiso de la identidad y acceso.`
 
 `TODO: Especificar herramientas y procedimientos para cada paso, a continuación.`
 
 * TODO
 
-#### Referencia: Recursos de remediación
+#### Referencia: Recursos de Remediación
 
 `TODO: Especificar los recursos financieros, de personal y logísticos para llevar a cabo la remediación.`
 
@@ -50,7 +50,7 @@ Además de los pasos y orientaciones generales del plan de respuesta a incidente
 
 ### Recuperación
 
-`TODO: Personalizar los pasos de recuperación para el compromiso de la identidad y el acceso.`
+`TODO: Personalizar los pasos de recuperación para el compromiso de la identidad y acceso.`
 
 `TODO: Especifique las herramientas y los procedimientos para cada paso, a continuación.`
 
@@ -62,4 +62,4 @@ Además de los pasos y orientaciones generales del plan de respuesta a incidente
 
 #### Información adicional
 
-1. <a name="identity-and-access-playbook-ref-1"></a>["Title"](#TODO-url), Author Last Name (Date)
+1. <a name="identity-and-access-playbook-ref-1"></a>["Título"](#TODO-url), Author Last Name (Date)
