@@ -12,17 +12,17 @@ Documente las respuestas a las siguientes preguntas clave:
 
 1. **¿Qué ocurrió?** Cree una línea de tiempo, apoyada con datos u otros artefactos. **Evitar las culpas. Busca los hechos.**
 1. **¿Qué se suponía que iba a ocurrir?**
-    * Detallar las desviaciones del proceso, el procedimiento o las mejores prácticas, incluidas las evaluaciones de las PYMES.
+    * Detallar las desviaciones del proceso, el procedimiento o las mejores prácticas, incluidas las evaluaciones de los SME's.
     * Identifique las formas en que el incidente podría haberse detectado antes o haberse respondido con mayor eficacia.
 1. **¿Cuáles fueron las causas fundamentales?** Encuentre la raíz de lo que ocurrió y de lo que debería haber ocurrido.
-1. **¿Cómo podemos mejorar?**  Capture los elementos de acción con asignados y fechas de vencimiento. Considerar:
+1. **¿Cómo podemos mejorar?**  _Registre los elementos de acción con los responsables y las fechas de vencimiento._ Considere:
     * Detener: ¿Qué debemos dejar de hacer?
     * Empezar: ¿Qué deberíamos empezar a hacer?
     * Continuar: ¿Qué debemos seguir haciendo?
 
 ## Comunicar el estado y los resultados del AAR
 
-El propietario del informe, en coordinación con el enlace interno, comunicará el estado del informe (véase más abajo).
+El propietario del informe, en coordinación con el Enlace Interno, comunicará el estado del informe (véase más abajo).
 
 ### Descripciones de estado
 
@@ -31,6 +31,6 @@ El propietario del informe, en coordinación con el enlace interno, comunicará 
 | **Borrador** | La investigación de la AAR sigue en curso |
 | **En revisión** | La investigación AAR se ha completado, y está lista para ser revisada durante la reunión AAR. |
 | **Revisado** | La reunión de AAR ha terminado y el contenido ha sido revisado y acordado.<br>Si hay "Mensajes externos" adicionales, el equipo de comunicación tomará medidas para prepararlos. |
-| **Cerrado** | No es necesario realizar más acciones en el AAR (los problemas pendientes se rastrean en los tickets).<br>Si no hay "Mensajes Externos", pase directamente a esto una vez que la reunión haya terminado.<br>Si hay "Mensajes Externos" adicionales, el equipo de comunicaciones actualizará el AAR Cerrado una vez enviado. |
+| **Cerrado** | No es necesario realizar más acciones en el AAR (los problemas pendientes se rastrean en los tickets).<br>Si no hay "Mensajes Externos", pase directamente a esto una vez que la reunión haya terminado.<br>Si hay "Mensajes Externos" adicionales, el equipo de comunicaciones actualizará el AAR. Quedando cerrado una vez enviado. |
 
 Comunicar internamente los resultados del AAR y finalizar la documentación del AAR.
