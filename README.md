@@ -71,7 +71,7 @@ Ejemplos de cada formato están disponibles en [directorio de ejemplos](./exampl
 
 ### Contactenos 
 
-Para asistencia profesional con respuesta a incidentes, o con la personalización, aplicación, o prueba su plan, póngase en contacto con nosotros en contact@counteractive.net o [(888) 925-5765](tel:+18889255765).
+Para asistencia profesional con respuesta a incidentes, o con la personalización, aplicación, o prueba de su plan, póngase en contacto con nosotros en contact@counteractive.net o [(888) 925-5765](tel:+18889255765).
 
 ## Licencia
 
