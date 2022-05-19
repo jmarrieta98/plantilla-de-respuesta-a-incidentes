@@ -100,3 +100,4 @@ Fase inicial en la que las organizaciones prepararán las medidas para asegurars
 8. Comuníquese con los proveedores de seguridad y de TI 
     1. Notifique y colabore con [proveedores gestionados](#TODO-link-to-actual-resource) según el procedimiento
     2. Notificar y colaborar con [consultores de respuesta a incidentes](#TODO-link-to-actual-resource) por procedimiento.
+
