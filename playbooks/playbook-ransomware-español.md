@@ -1,4 +1,5 @@
-## Playbook: Ramsomware
+
+## Playbook: Ramsomware Español
 
 **Investigar, remediar (contener, erradicar) y comunicar en paralelo!**
 
@@ -132,3 +133,4 @@ Las cuarentenas (lógicas, físicas o ambas) impiden la propagación _desde_ los
 #### Información adicional
 
 1. <a name="playbook-ransomware-ref-1`"></a>No More Ransom [No More Ransom!](https://www.nomoreransom.org)
+
