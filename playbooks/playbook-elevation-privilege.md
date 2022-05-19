@@ -182,7 +182,7 @@ los principales incidentes; en este caso escalada de privilegio para evitar inci
 
 * Debe proceder en la reunión(es), siguiendo estos pasos, el Escriba deberá ir documentando o tomando notas de lo que se hablen o acuerden en estas reuniones, bajo supervisión del IC y asesoramiento del o los SME's:
   * Revisión del incidente. ¿Ha habido información personal electrónica comprometida (_ePHI_)?
-  * Información sensible gubernamental comprometida, clientes, proveedores?
+  * ¿Información sensible gubernamental comprometida, clientes, proveedores?
   * Lecciones al descubierto:
      * Realice reunión de descubrimiento.
      * Junto al personal intermedio, y del departamento que corresponda. Realice lo siguiente:
