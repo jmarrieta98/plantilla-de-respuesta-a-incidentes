@@ -1,4 +1,5 @@
-## Playbook: Ramsomware
+
+## Playbook: Criptojacking
 
 **Investigar, remediar (contener, erradicar) y comunicar en paralelo!**
 
