@@ -35,24 +35,24 @@ En esta fase debe esforzarse por detectar y validar los incidentes rápidamente,
     * ¿Se han producido alertas desde los sistemas IDS/IPS y Firewalls del servicio externalizado?
     * ¿Se han producido notificaciones desde organizaciones del exterior, de socios comerciales o terceros?
 
-2. Categorize el incidente, del grupo de escalada de privilegios.
-3. Solicite peticiones captura de paquetes, de la red. Donde se hayan detectado o se infiere de los indicadores de amenazas.
+2. Categorice el incidente, del grupo "escalada de privilegios".
+3. Solicite peticiones de captura paquetes, de la red. Donde se hayan detectado o se infiere de los indicadores de amenazas.
 4. Realice escaneos de contenido.
 5. El Incident Commander, junto con el equipo de operaciones deberán. Siguiendo una estructura de tiempo determinada. Ir gestionando el incidente, recibiendo la información, de manera organizada y planificando los siguientes pasos.
 6. Debe definir los factores de riesgos, basados en los activos identificados en su empresa, tanto los críticos o no críticos. Debe responder de manera afirmativa/negativa.
    * Empleados son afectados por este compromiso.
    * Clientes son afectados por este incidente.
    * Público o personal de seguridad son afectados.
-   * Capacidad de controlar/registar/medir/rastrear cualquier cantidad significativa de inventario/productos/propiedad intelectual/efectivo/ingresos que se haya perdido a causa del incidente.
+   * Capacidad de controlar/registar/medir/rastrear cualquier cantidad significativa de inventario/productos/propiedad-intelectual/efectivo/ingresos que se haya perdido a causa del incidente.
    * Los productos/bienes y servicios/procesos internos se ven afectados por este compromiso.
    * Este incidente está siendo lanzado por actores de amenaza conocidos. _e.j._, APT's, grupos de ciberdelincuentes (Cozy Bear, Conti _etc..._).
    * Hay conocimiento interno de este incidente o por parte de los SME's, aunque se tengan externalizados sus servicios.
    * Se va a tomar como referencia el peor caso de impacto, al no poder mitigar este ataque.
-7. Determine los metódos de parcheo para los sistemas/activos afectados. Ayúdese de los SME'e, son la gerencia de las vulnerabilidades. Y deberá llegarse a un consenso con el Incident Commander-Adjunto del mejor metódo a seguir en su infraestructura de sistemas, en la empresa. Ellos son la gerencia de amenazas. Este a su vez, debe comunicar únicamente de los avancer en el proceso, al Incidente Commander.
-8. Realice una recolección de LOGS de los distintos servicios y sistemas de monitorización, detección implantados en la organización.
-9. Realice la recolección de evidencia, haga uso de herramientas como Velociraptor. Ganará en eficiencia y trazabilidad en las reoclección en los diferentes sistemas y Enpoints(EDR).
+7. Determine los metódos de parcheo para los sistemas/activos afectados. Ayúdese de los SME'e, son la gerencia de las vulnerabilidades. Y deberá llegarse a un consenso con el Incident Commander-Adjunto, del mejor metódo a seguir en su infraestructura de sistemas, en la empresa. Ellos son la gerencia de amenazas. Este a su vez, debe comunicar únicamente de los avances en el proceso, al Incidente Commander.
+8. Realice una recolección de _LOGS_, de los distintos servicios, sistemas de monitorización/detección implantados en la organización.
+9. Realice la recolección de evidencia, haga uso de herramientas como Velociraptor. Ganará en eficiencia y trazabilidad en las recolecciones de artefactos, de los diferentes sistemas y Enpoints(EDR).
 10. Capture datos de los distintos activos.
-11. Analizalos, con herramientas forenses, como la indicada anteriormente. Si tiene el servicio externalizado, que le informe de los avances el/los SME's.
+11. Analízalos, con herramientas forenses, como la indicada anteriormente. Si tiene el servicio externalizado, que le informe de los avances el/los SME's.
 
 ### Remediar
 
@@ -70,20 +70,20 @@ aceptable para la organización.
 
 `TODO: Especificar las herramientas y procedimientos para cada paso, a continuación.`
 
-1. Identifique los sistemas que han sido accedidos, mediante la escalada de privilegios o que estén en riesgo, de lo ya analizados anteriormente.
+1. Identifique los sistemas que han sido accedidos, mediante la escalada de privilegios o que estén en riesgo, de los ya analizados anteriormente.
 2. Identifique los sistemas que estén fuera de línea debido a que fueron comprometidos.
 3. Identifique el/los sistema(s) bloqueados debido a intentos repetidos de inicio de sesión.
 4. Identifique los sistemas con interrupción o degradación de servicios.
-   * Servidores (Correo electrónico, archivos y aplicaciones, en la nube, almacenamiento en la nube :
+   * Servidores (Correo electrónico, archivos y aplicaciones, en la nube, almacenamiento en la nube:
    * Equipos de trabajo (Departamentos _facturación y ventas, compras, comunicación y RRSS, TIC, RRHH, Delivery, Mantenimiento, Legal, consejo de administración_). :
    * Portátiles (_Mismos Departamentos, que equipos de trabajo_).
-   * Dispositivos móviles (_Mismos Departamentos, que equipos de trabajo_):
+   * Dispositivos móviles (_Mismos Departamentos, que dispositivos de trabajo_):
    * Máquinas Virtuales, si el proveedor las esta utilizando para ofrecer sus servicios con la organización: 
    * Directorio Activo (_Del proveedor, con el que se tiene contratado el servicio_):
 
 5. Identifique las cuentas de usuario comprometidas o modificadas.
 6. Identifique los servicios TI que han sufrido impacto. 
-7. Identifique las herramientas no autorizadas utilizadas para acceder a sistemas o cuentas de usuario. Debera por lo tanto.
+7. Identifique las herramientas no autorizadas utilizadas para acceder a sistemas o cuentas de usuario. Debera:
     * Seleccione las bases de datos. El equipo de operaciones junto con el/los SME's, deberán evaluar vulnerabilidades en los logs.
     * Debe consultar la base de datos de incidente, junto a la base de datos de amenazas. Por lo que el/los SME's junto al Incident Commander-Adjunto deben comunicarse constantemente, en esta fase.
     * Debe consultar los logs de los sistemas. Realice consultas a la base de datos y comunique al Escriba, que genere los informes de las consultas.
@@ -99,7 +99,7 @@ aceptable para la organización.
 
 `TODO: Considerar la automatización de las medidas de contención utilizando herramientas de orquestación.`
 * Deberá consultar con el proveedor/es de seguridad. Si dispone, alguna implantación de alguna herramienta de automatización, que permita realizar la contención en mejor forma y tiempo.
-* También para seguir perfeccionando, el plan de respuesta a incidentes. Del tipo escalada de privilegios.
+* También para seguir perfeccionando, el plan de respuesta a incidentes. Del tipo de respuesta a escalada de privilegios.
 
 #### Erradicar
 
@@ -109,7 +109,7 @@ aceptable para la organización.
 
 En esta fase el equipo de operaciones, deberá realizar el correspondiente triage y junto al Escriba, la confirmación del informe del Incidente.
 Por lo que debe realizar peticiones de parcheo de los sistemas.
-Y, realizando las siguientes acciones, entre los distintos roles del equipo.
+Y, realizando las siguientes acciones, entre los distintos roles del equipo:
 
 1. Debe erradicar los compromisos:
 * Añadir/Cambiar/Eliminar Sitio/Red/Sistema que haya sido afectado.
@@ -135,8 +135,9 @@ Para llevar a cabo todo el proceso descrito anteriormente. Se utilizarán los si
 `TODO: Personalizar los pasos de comunicación para el compromiso de la identidad y el acceso.`
 
 `TODO: Especifique las herramientas y los procedimientos (incluyendo quién debe participar) para cada paso, a continuación, o remítase al plan general.`
-1. Durante la llamada del incidente. Debe realizar comunicaciones, entre los integrante del equipo de operaciones:
-2. En el incidente, el IC será quien esté al mando y gestione a los demás integrantes. Se deben realizar alguno de los tipos de comunicación que se dictan, a continuación:
+
+1. Durante la llamada del incidente. Debe realizar comunicaciones, entre los integrantes del equipo de operaciones:
+2. En el incidente, el IC será quien esté al mando y gestione a los demás del equipo. Se deben realizar alguno de los tipos de comunicación que se dictan, a continuación:
    1. Llamadas de conferencia, entre el IC y en ocasiones junto al IC-Adjunto y SME's. Para poner en contexto e ir informando de manera a alto nivel. A la ejecutiva de la organización.
    2. Llamadas directas de teléfono. En el caso, de que necesite informar rápidamente o tenga que obtener nueva información. Más rápido. Con el equipo de operaciones. Utilice este método.
    3. Encuentros internos, utilizando la intranet o en el caso de tener el servicio de respuesta a incidente externalizado. Encuentros desde servicios de Internet para comunicarse. Ya sean entre IC, IC-Adjunto o el/los SME's.
@@ -183,8 +184,8 @@ los principales incidentes; en este caso escalada de privilegio para evitar inci
   * Revisión del incidente. ¿Ha habido información personal electrónica comprometida (_ePHI_)?
   * Información sensible gubernamental comprometida, clientes, proveedores?
   * Lecciones al descubierto:
-     * Realize reunión de descubrimiento.
-     * Junto al personal de empresa, y del departamento que corresponda. Realice lo siguiente:
+     * Realice reunión de descubrimiento.
+     * Junto al personal intermedio, y del departamento que corresponda. Realice lo siguiente:
        * Actualizaciones de políticas definidas.
        * Actualizaciones de procesos definidos.
        * Actualizaciones de configuraciones definidas.
@@ -194,7 +195,7 @@ los principales incidentes; en este caso escalada de privilegio para evitar inci
        * Configuraciones aplicadas.
      * Actualización a la respueta del flujo de trabajo en la organización.
 
-**Debe y son importante, realizar pruebas, para aegurar el correcto funcionamiento de nuestro plan respuesta. Yendo ligado, poniendo a prueba la respuesta continuidad del negocio.
+**Debe y son importante, realizar pruebas, para aegurar el correcto funcionamiento del plan de respuesta. Yendo ligado, y poniendo a prueba, la respuesta de continuidad del negocio.
 Actualizando y mejorando el plan en un proceso circular de mejora continua. Proporcionando inteligencia tanto a la organización como para terceros.
 Y capacitando a los encargados de ponerlo en marcha, concienciar y difundir el plan.**
    
