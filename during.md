@@ -43,14 +43,14 @@ Cree una [frase simple de dos palabras](http://creativityforyou.com/combomaker.h
 
 ## Reunir el Equipo de Respuesta
 
-1. Llame al Incident Commander de turno/de guardia. `TODO: Añadir lista o procedimiento de llamada del Incident Commander`
+1. Llame al Incident Commander de turno/guardia. `TODO: Añadir lista o procedimiento de llamada del Incident Commander`
 2. **No** discuta el incidente fuera del equipo de respuesta a menos que el Incident Commander lo autorice
 3. Inicie y/o únase al chat de respuesta en {{RESPONSE_CHAT}}. `TODO: Añadir el procedimiento de lanzamiento del chat de respuesta.`
 4. Iniciar y/o unirse a la llamada de respuesta en {{RESPONSE_PHONE}} y/o {{RESPONSE_VTC}}. `TODO: Añadir el procedimiento de lanzamiento de la llamada de respuesta.`
 5. Prefiera la llamada de voz, el chat y el intercambio seguro de archivos sobre cualquier otro método.
 6. **No** utilizar el correo electrónico principal si es posible.  Si el correo electrónico es necesario, utilícelo con moderación o use {{ALTERNATE_EMAIL}}. Encripte los correos electrónicos cuando cualquier participante esté fuera del dominio {{ORGANIZATION_DOMAIN}}. `TODO: Añadir detalles y procedimiento de correo electrónico alternativo, por ejemplo, Office 365 o GSuite bajo demanda`
 7. **No** usar SMS/texto para comunicar el incidente, a menos que sea para decirle a alguien que se mueva a un canal más seguro.
-8. Invite a los intervinientes de servicio/de guardia a la llamada de respuesta y al chat de respuesta.
+8. Invite a los intervinientes de servicio/guardia a la llamada de respuesta y al chat de respuesta.
     * Invite al equipo de seguridad. `TODO: Añadir lista de contactos del equipo de seguridad o procedimiento.`
     * Invitar a un SME para los equipos y sistemas afectados. `TODO: Añadir lista de contactos de los SME del equipo o procedimiento.`
     * Invitar a las partes interesadas ejecutivas y a los asesores jurídicos lo antes posible, pero dar prioridad a los responsables operativos. `TODO: Añadir una lista de contactos de las partes interesadas ejecutivas o procedimiento.`
@@ -78,7 +78,7 @@ Rol del Equipo de Respuesta         | Información de Contacto
 ----------------------------------- | ---------------------------
 Localizador del Incident Commander  | {INCIDENT_COMMANDER_PAGER_NUMBER}}
 url del Incident Commander          | {{INCIDENT_COMMANDER_PAGER_URL}}
-Lista de Incident Commander's        | {{INCIDENT_COMMANDER_ROSTER}}
+Lista de Incident Commander's       | {{INCIDENT_COMMANDER_ROSTER}}
 Lista del equipo de Seguridad       | {{SECURITY_TEAM_ROSTER}}
 Lista del equipo SME                | {{TEAM_SME_ROSTER}}
 Lista de Ejecutivos                 | {{EXECUTIVE_ROSTER}}
@@ -90,7 +90,7 @@ Lista de Ejecutivos                 | {{EXECUTIVE_ROSTER}}
 ### Realizar la Llamada de Respuesta Inicial
 
 1. Realice la llamada inicial utilizando la [estructura de llamada de respuesta inicial](#referencia-estructura-de-la-llamada-de-respuesta-inicial)
-2. Siga las instrucciones del Incident Commander. Si el Incident Commander de turno/de guardia no se une a la llamada **dentro de {{INCIDENT_COMMANDER_RESPONSE_SLA}}** y usted es un Incident Commander capacitado, tome el mando de la llamada.
+2. Siga las instrucciones del Incident Commander. Si el Incident Commander de turno/guardia no se une a la llamada **dentro de {{INCIDENT_COMMANDER_RESPONSE_SLA}}** y usted es un Incident Commander capacitado, tome el mando de la llamada.
 3. Siga las [instrucciones correspondientes a su rol](#roles).
 4. Siga la llamada y el chat, y comente según corresponda.  Si no es un SME, filtre las aportaciones a través del SME de su equipo si es posible.
 5. **Mantenga la llamada y el chat activos durante todo el incidente para una comunicación basada en eventos.**

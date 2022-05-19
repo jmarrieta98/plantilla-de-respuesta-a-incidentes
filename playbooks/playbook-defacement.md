@@ -159,9 +159,9 @@ Asigne los pasos a individuos o equipos para que trabajen simultáneamente, cuan
     1. ¿Con quién más se ha puesto en contacto en relación con este incidente y qué le ha dicho?
 1. Haga las preguntas de seguimiento que sean necesarias.  **Usted es una persona que responde al incidente, contamos con usted.**
 1. Obtenga información de contacto detallada del usuario (domicilio, oficina, móvil), si procede.
-1. Registre toda la información en el ticket, incluyendo notas manuscritas y de voz.
-1. Ponga en cuarentena a los usuarios y sistemas afectados. `TODO: Personalizar los pasos de contención, automatizar todo lo posible`.
-1. Póngase en contacto con el [equipo de seguridad](#TODO-link-to-actual-resource) y prepárese para participar en la respuesta según las indicaciones: investigación, remediación, comunicación y recuperación.
+2. Registre toda la información en el ticket, incluyendo notas manuscritas y de voz.
+3. Ponga en cuarentena a los usuarios y sistemas afectados. `TODO: Personalizar los pasos de contención, automatizar todo lo posible`.
+4. Póngase en contacto con el [equipo de seguridad](#TODO-link-to-actual-resource) y prepárese para participar en la respuesta según las indicaciones: investigación, remediación, comunicación y recuperación.
 
 #### Información adicional
 1. <a name="defacement-playbook-ref-1"></a>Un útil y detallado [paper](https://pdfs.semanticscholar.org/899e/2d629e06d920b9059edb21fcb52cdb33f783.pdf) sobre la detección de un defacement
