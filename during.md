@@ -2,6 +2,7 @@
 
 Autor: {{AUTHOR_NAME}},
 
+
 {{AUTHOR_NAME_2}}, {{AUTHOR_EMAIL}}
 
 Revisión {{REVISION_NUMBER}}, Publicado {{RELEASE_DATE}}
