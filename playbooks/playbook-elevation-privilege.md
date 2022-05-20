@@ -98,6 +98,7 @@ aceptable para la organización.
 * Herramientas de monitorización de red: _Herramienta básica, propia de la organización_.
 
 `TODO: Considerar la automatización de las medidas de contención utilizando herramientas de orquestación.`
+
 * Deberá consultar con el proveedor/es de seguridad. Si dispone, alguna implantación de alguna herramienta de automatización, que permita realizar la contención en mejor forma y tiempo.
 * También para seguir perfeccionando, el plan de respuesta a incidentes. Del tipo de respuesta a escalada de privilegios.
 
@@ -124,7 +125,6 @@ Y, realizando las siguientes acciones, entre los distintos roles del equipo:
 `TODO: Especificar los recursos financieros, de personal y logísticos para llevar a cabo la remediación.`
 
 Para llevar a cabo todo el proceso descrito anteriormente. Se utilizarán los siguiente recursos tanto financieros, personal y logísticos:
-
 
 * Dispone del equipo de operaciones, contratado de manera externalizada. Que ofrece servicio de respuesta ante incidentes.
 * Dispone a más alto nivel, ayuda técnica o _Help Desk_ de los diferentes servicios, utilizados dentro de la organización, por el departamento TI.
