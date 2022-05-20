@@ -100,7 +100,7 @@ Lista de Ejecutivos                 | {{EXECUTIVE_ROSTER}}
 
 * Incident Commander (IC): Mi nombre es [NOMBRE], soy el Incident Commander.  He designado a [NOMBRE] como Incident Commander-Adjunto y a [NOMBRE] como Escriba. ¿Quién está en la llamada?
 * ESCRIBA: [Toma asistencia]
-* IC: [Si falta personal clave] Incident Commander-Adjunto, por favor llame a [PERSONAL FALTANTE].
+* IC: [Si falta personal clave] Incident Commander-Adjunto, por favor llame a [PERSONAL_FALTANTE].
 * IC: [Hace preguntas para comprender la situación, los síntomas, el alcance, el vector, el impacto y el calendario del informador del incidente, los SME's aplicables para los sistemas y las unidades de negocio]
 * SME's: [Responde brevemente a las preguntas del IC].
 * IC: [Si se trata de un incidente]:
@@ -273,7 +273,7 @@ Consulte la página [MITRE ATT&CK](https://attack.mitre.org/) para obtener más 
 
 ## Crear y Desplegar Indicadores de Compromiso (IOC's)
 
-> Enfaticee en los indicadores **dinámicos y de comportamiento** junto a las huellas digitales estáticas.
+> Enfatice en los indicadores **dinámicos y de comportamiento** junto a las huellas digitales estáticas.
 
 * Crear IOC's basados en [pistas iniciales](#recoger-las-pistas-iniciales) y [análisis](#analyze-evidence).
 * Cree IOC's usando un formato abierto soportado por sus herramientas (_e.j._, [STIX 2.0](https://oasis-open.github.io/cti-documentation/stix/intro)), si es posible. `TODO: Personalizar el formato de los IOC's, según sea necesario.`
