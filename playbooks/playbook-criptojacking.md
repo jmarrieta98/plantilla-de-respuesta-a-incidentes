@@ -65,5 +65,4 @@ Asigne los pasos a individuos o equipos para que trabajen simultáneamente, cuan
 
 #### Información adicional
 
-1. <a name="playbook-criptojacking-ref-1`"></a>CryptoJacking [INCIBE (https://www.incibe.es/aprendeciberseguridad/cryptojacking)
-**
+1. <a name="playbook-criptojacking-ref-1"></a>[INCIBE  - CryptoJacking ](https://www.incibe.es/aprendeciberseguridad/cryptojacking)
