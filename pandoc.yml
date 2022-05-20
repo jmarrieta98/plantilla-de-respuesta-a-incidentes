@@ -1,7 +1,7 @@
 ---
 title: 'Plan de respuesta a incidentes para {{COMPANY_NAME}}'
 author: 'Autor: {{AUTHOR_NAME}},'
-author2: 'Autor {{AUTHOR_NAME_2}}, {{AUTHOR_EMAIL}}'
+author_2: 'Autor: {{AUTHOR_NAME_2}}, {{AUTHOR_EMAIL}}'
 date: 'Revisión {{REVISION_NUMBER}}, Publicado {{RELEASE_DATE}}'
 abstract: |
   This incident response plan is based on the concise, directive, specific, flexible, and free plan available on Counteractive Security's [Github](https://github.com/counteractive/incident-response-plan-template) and discussed at [www.counteractive.net](https://www.counteractive.net/posts/an-ir-plan-you-will-use/)
