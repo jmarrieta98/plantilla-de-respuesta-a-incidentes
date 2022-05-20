@@ -76,7 +76,7 @@ Cree una [frase simple de dos palabras](http://creativityforyou.com/combomaker.h
 
 Rol del Equipo de Respuesta         | Información de Contacto
 ----------------------------------- | ---------------------------
-Localizador del Incident Commander  | {INCIDENT_COMMANDER_PAGER_NUMBER}}
+Localizador del Incident Commander  | {{INCIDENT_COMMANDER_PAGER_NUMBER}}
 url del Incident Commander          | {{INCIDENT_COMMANDER_PAGER_URL}}
 Lista de Incident Commander's       | {{INCIDENT_COMMANDER_ROSTER}}
 Lista del equipo de Seguridad       | {{SECURITY_TEAM_ROSTER}}
@@ -149,7 +149,7 @@ Lista de Ejecutivos                 | {{EXECUTIVE_ROSTER}}
     * ¿Cuál es su estrategia de comunicación recomendada?. ¿Objeciones fuertes? [escuchar, obtener consenso, encargar/aprobar]
     * ¿Qué acciones de comunicación necesitan ser asignadas o aprobadas?
   * IC: Esta llamada y el chat permanecerán activos y disponibles hasta el cierre del incidente, por favor, utilícelos para todas las comunicaciones relacionadas con el incidente. Si es posible, proporcione actualizaciones del estado en tiempo real en el chat. ¿Hay alguna pregunta o aportación restante? [responde a las preguntas]
-  * IC: Líderes de equipo, por favor procedan. Nos reuniremos de nuevo en [{{UPDATE_TIME}}] para discutir la situación. Gracias.
+  * IC: Líderes de equipo, por favor procedan. Nos reuniremos de nuevo en {{UPDATE_TIME}} para discutir la situación. Gracias.
 
 ## Supervisar el Alcance
 

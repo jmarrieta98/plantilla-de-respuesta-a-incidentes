@@ -1,5 +1,5 @@
 
-## Rol: Experto en la materia {Subject Matter Expert (SME)}
+## Rol: Experto en la materia {{Subject Matter Expert (SME)}}
 
 ### Descripción
 

@@ -142,7 +142,7 @@ Para llevar a cabo todo el proceso descrito anteriormente. Se utilizarán los si
    2. Llamadas directas de teléfono. En el caso, de que necesite informar rápidamente o tenga que obtener nueva información. Más rápido. Con el equipo de operaciones. Utilice este método.
    3. Encuentros internos, utilizando la intranet o en el caso de tener el servicio de respuesta a incidente externalizado. Encuentros desde servicios de Internet para comunicarse. Ya sean entre IC, IC-Adjunto o el/los SME's.
    4. Si fuese necesario y es posible. Preferencia a encuentros en persona. En la sala de "mando".
-   5. Mensajeo por móviles. En el caso de que se necesite dar una información clara y corta, puede ser un método útil. Para cualquiera de los integrante del equipo de respuesta. Que no requiere de una conversación.
+   5. Mensajeo por móviles. Evitarlos todo lo posible. En el caso de que se necesite, comunicar un cambio de canal de comunicación.
    6. Póngase en contacto con los proveedore(s) de seguros.
       1. Discutir que recursos pueden poner a disposición, qué herramientas.
    7. Comuníquese con los organismos reguladores para notificar en tiempo y forma si procede. Como los CERT's, comuníquese con otras empresas que le puedan aportar inteligencia acerca de la información del incidente obtenida hasta ahora. Incluyendo una discusión sobre los recursos que pueden poner a su disposición.
