@@ -6,7 +6,9 @@
 COMPANY_NAME: 'JUAKERS S.L'
 
 # Name and email of plan author (e.g., Chris)
-AUTHOR_NAME: 'Jose Manuel Arrieta Soto, David Valenzuela Vargas,... ...Abel Antonio Posado Reyes, Raúl Cabrera Garcia'
+AUTHOR_NAME: 'Jose Manuel Arrieta Soto, David Valenzuela Vargas, '
+
+  'Abel Antonio Posado Reyes, Raúl Cabrera Garcia'
 
 # Email of plan author (e.g., contact@counteractive.net)
 AUTHOR_EMAIL: 'ju**rs@company.es'
