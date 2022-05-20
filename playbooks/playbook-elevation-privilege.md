@@ -45,13 +45,13 @@ En esta fase debe esforzarse por detectar y validar los incidentes rápidamente,
    * Público o personal de seguridad son afectados.
    * Capacidad de controlar/registar/medir/rastrear cualquier cantidad significativa de inventario/productos/propiedad-intelectual/efectivo/ingresos que se haya perdido a causa del incidente.
    * Los productos/bienes y servicios/procesos internos se ven afectados por este compromiso.
-   * Este incidente está siendo lanzado por actores de amenaza conocidos. _e.j._, APT's, grupos de ciberdelincuentes (Cozy Bear, Conti _etc..._).
+   * Este incidente está siendo lanzado por actores de amenaza conocidos. _e.j._, APT's, grupos de ciberdelincuentes (Cozy Bear/APT29, APT38, REvil _etc..._).
    * Hay conocimiento interno de este incidente o por parte de los SME's, aunque se tengan externalizados sus servicios.
    * Se va a tomar como referencia el peor caso de impacto, al no poder mitigar este ataque.
-7. Determine los metódos de parcheo para los sistemas/activos afectados. Ayúdese de los SME'e, son la gerencia de las vulnerabilidades. Y deberá llegarse a un consenso con el Incident Commander-Adjunto, del mejor metódo a seguir en su infraestructura de sistemas, en la empresa. Ellos son la gerencia de amenazas. Este a su vez, debe comunicar únicamente de los avances en el proceso, al Incidente Commander.
+7. Determine los metódos de parcheo para los sistemas/activos afectados. Ayúdese de los SME'e, son la gerencia de las vulnerabilidades. Y deberá llegarse a un consenso con el Incident Commander-Adjunto, del mejor metódo a seguir en su infraestructura de sistemas, en la empresa. Ellos son la gerencia de amenazas. Obteniendo resultados, que permitan dar continuidad al negocio, siendo resilientes en lo que se ejecuta. Y en la medida, que sea posible. Este a su vez, debe comunicar únicamente los avances en el proceso, al Incidente Commander.
 8. Realice una recolección de _LOGS_, de los distintos servicios, sistemas de monitorización/detección implantados en la organización.
 9. Realice la recolección de evidencia, haga uso de herramientas como Velociraptor. Ganará en eficiencia y trazabilidad en las recolecciones de artefactos, de los diferentes sistemas y Enpoints(EDR).
-10. Capture datos de los distintos activos.
+10. Capture datos de los distintos activos, ayudándose de herramientas de captura de tráfico de red, como WireShark. Como la captura de otros tipos de datos.
 11. Analízalos, con herramientas forenses, como la indicada anteriormente. Si tiene el servicio externalizado, que le informe de los avances el/los SME's.
 
 ### Remediar
@@ -107,7 +107,7 @@ aceptable para la organización.
 
 `TODO: Especificar herramientas y procedimientos para cada paso, a continuación.`
 
-En esta fase el equipo de operaciones, deberá realizar el correspondiente triage y junto al Escriba, la confirmación del informe del Incidente.
+En esta fase el equipo de operaciones, deberá realizar el correspondiente triaje y junto al Escriba, la confirmación del informe del Incidente.
 Por lo que debe realizar peticiones de parcheo de los sistemas.
 Y, realizando las siguientes acciones, entre los distintos roles del equipo:
 
