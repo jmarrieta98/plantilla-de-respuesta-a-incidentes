@@ -123,9 +123,11 @@ Y, realizando las siguientes acciones, entre los distintos roles del equipo:
 
 `TODO: Especificar los recursos financieros, de personal y logísticos para llevar a cabo la remediación.`
 
-Para llevar a cabo todo el proceso descrito anteriormente. Se utilizarán los siguiente recursos tanto financioero, personal y logísticos:
+Para llevar a cabo todo el proceso descrito anteriormente. Se utilizarán los siguiente recursos tanto financieros, personal y logísticos:
+
+
 * Dispone del equipo de operaciones, contratado de manera externalizada. Que ofrece servicio de respuesta ante incidentes.
-* Dispone a más alto nivel, ayuda técnica o _Help Desk_ de los diferentes servicios, utilizado dentro de la organización, por el departamento TI.
+* Dispone a más alto nivel, ayuda técnica o _Help Desk_ de los diferentes servicios, utilizados dentro de la organización, por el departamento TI.
 * Dispone de un equipo legal, con un buen nivel de implementación, para remediar cuando se conozca el alcance real del incidente. Para tomar actuaciones en materia legal, (_RGPD_), de proveedores o clientes afectados.
 * Dispone de equipo de mantenimiento, por si hubiera que trasladar algún equipo de trabajo, o otros.
 * Dispone de servicios de protección y monitorización, contratados de manera externalizada.
