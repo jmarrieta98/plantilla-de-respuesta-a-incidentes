@@ -3,7 +3,20 @@
 
 **Investigar, remediar (contener, erradicar) y comunicar en paralelo!**
 
+### Preparación
+
 Asigne los pasos a individuos o equipos para que trabajen simultáneamente, cuando sea posible; este playbook no es puramente secuencial. Utilice su mejor criterio.
+
+Fase inicial en la que debe pereparar las medidas, para asegurarse que pueden responder de manera efectiva:
+
+* Determinar y definir los Roles del equipo de Operaciones
+    * Incident Commander (IC): Gerente del riesgo.
+    * Incident Commander-Adjunto: Gerente de Amenaza.
+    * Escriba: Documenta el incidente.
+    * SME's: Gerente de Vulnerabilidad, si tiene servicios externalizados o internos.
+* Revise y mantenga la línea de tiempo.
+* Entrevístese con los usuarios, gerentes y seguridad física. Y tanto con los SME's internos o externos, si los hubiera y procede.
+* El Escriba debe ir documentando durante la resolución del incidente y servirá de apoyo.
 
 ### Investigar 
 
