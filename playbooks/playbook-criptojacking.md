@@ -23,7 +23,6 @@ Fase inicial en la que debe pereparar las medidas, para asegurarse que pueden re
 1. **Que ocurre en la web** 
     1. Hemos detectado que la web va con lentitud.
     2. Los clientes han emitido quejas sobre el tema anterior.
-    3. Analizar los servidores webs afectados.
 
 ### Remediar
 
